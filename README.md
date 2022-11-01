@@ -37,5 +37,5 @@ To Visit App:
 
 <div align="center">
     <p><strong>Exemple App</strong></p>
-    <img width="500" src="curriculum-list/public/assets/exemple-application.mp4">
+    <img width="500" src="public/assets/exemple-application.mp4">
 </div>
